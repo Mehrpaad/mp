@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    font-family:Helvetica;
+   
+}
+h1,h4{
+    color: black;
+}
+h2{
+    color: white;
+    padding: 5px 2px;
+}
+p{
+    font-size:18px;
+}
+header{
+    background-image: url('/Resources/images/pattern.jpeg');
+    width: 100%;
+    height: auto; 
+    background-size:cover;      
+}
+header h1{
+    font-size:  60px;
+    text-align: center;
+    color: khaki;
+    padding: 20px;;
+}
+.brush{
+    background-color: green;
+    
+}
+.frames{
+    background-color: purple;
+}
+.paint{
+    background-color: pink;
+}
+strong{
+    color: blue;
+}
